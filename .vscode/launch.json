@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\ABasic\\JS006\\Book.js"
+            "program": "${workspaceFolder}\\ABasic\\JS001\\var.js"
         
         }
     ]
